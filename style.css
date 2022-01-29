@@ -1,0 +1,25 @@
+html{
+    height: 100%;
+}
+h1{
+    font-family: sans-serif;
+    width: 20;
+    
+}
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url(images/top-view-background-beautiful-white-grey-brown-cream-blue-background_140725-72219.jpg);
+    
+    height: 100%;
+}
+
+button{
+    font-family: cursive;
+    color:navy;
+}
+div{
+    padding-top: 20;
+    padding-bottom
